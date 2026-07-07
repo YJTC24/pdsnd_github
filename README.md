@@ -1,17 +1,16 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+Last Update 07/07/2026
 
-### Description
-Describe what your project is about and what it does
+# **US Bikeshare Data Analytics**
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## **Description**
+The user may use the file to either Access raw data regarding the US Bikeshare market or has a look on prefiltered descriptive statistics. The US Bikeshare data considers the markets of Chicago, Washington and NYC.
+
+### **Files used**
+washington.csv chicago.csv, new_york_city.csv
+
+### **Credits**
+All credits granted to the amazing Udacity Nano Degree Program.
 
