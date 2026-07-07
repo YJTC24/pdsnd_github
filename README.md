@@ -1,5 +1,5 @@
 
-Last Update: 07/072026
+Last Update: 07/07/2026
 
 # **US Bikeshare Data Analytics**
 
@@ -12,4 +12,3 @@ washington.csv chicago.csv, new_york_city.csv
 
 ### **Credits**
 All credits granted to the amazing Udacity Nano Degree Program.
-
