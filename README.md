@@ -10,5 +10,5 @@ The user may use the file to either Access raw data regarding the US Bikeshare m
 washington.csv, chicago.csv, new_york_city.csv
 
 ### **Credits**
-All credits granted to the amazing Udacity Nano Degree.
+All credits granted to the amazing Udacity Nano Degree Program.
 
